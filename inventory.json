@@ -1,7 +1,7 @@
 {
   "dealership": "Red Deer Nissan",
-  "generated_at": "2026-10-07T14:43:24",
-  "vehicle_count": 275,
+  "generated_at": "2026-10-08T14:31:03",
+  "vehicle_count": 274,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -19,7 +19,9 @@
       "year": 2006,
       "make": "Mercedes-Benz",
       "model": "C-Class Sedan 3.0L",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2010 Dodge Journey SXT",
@@ -36,7 +38,9 @@
       "year": 2010,
       "make": "Dodge",
       "model": "Journey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2014 Mazda Mazda3 Sedan GS-SKY",
@@ -53,7 +57,9 @@
       "year": 2014,
       "make": "Mazda",
       "model": "Mazda3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2015 Infiniti QX60 BASE",
@@ -70,7 +76,9 @@
       "year": 2015,
       "make": "Infiniti",
       "model": "QX60",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2017 BMW X5 xDrive40e",
@@ -87,22 +95,9 @@
       "year": 2017,
       "make": "BMW",
       "model": "X5",
-      "condition": "used"
-    },
-    {
-      "name": "2017 Infiniti QX60 BASE",
-      "vin": "5N1DL0MM8HC509250",
-      "stock": "RDN2655",
-      "trim": "BASE",
-      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/ede6cacb49ec.html",
-      "source_url": "https://www.reddeernissan.com/vehicles/2017/infiniti/qx60/red-deer/ab/71464931/?sale_class=used",
-      "dealer_url": "https://www.reddeernissan.com/vehicles/2017/infiniti/qx60/red-deer/ab/71464931/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-06T00:05:29",
-      "odometer_km": 93885,
-      "year": 2017,
-      "make": "Infiniti",
-      "model": "QX60",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2017 Jeep Cherokee Limited",
@@ -119,7 +114,9 @@
       "year": 2017,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2017 Mitsubishi Lancer Sedan ES",
@@ -136,7 +133,9 @@
       "year": 2017,
       "make": "Mitsubishi",
       "model": "Lancer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2017 Nissan Rogue SL Platinum",
@@ -153,7 +152,9 @@
       "year": 2017,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2017 Nissan Rogue SV AWD CVT MOONROOF/TECH PKG",
@@ -170,7 +171,9 @@
       "year": 2017,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2018 Ford Escape SEL",
@@ -187,7 +190,9 @@
       "year": 2018,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2018 Ford Escape SE",
@@ -204,7 +209,9 @@
       "year": 2018,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2018 Hyundai Sonata GL",
@@ -221,7 +228,9 @@
       "year": 2018,
       "make": "Hyundai",
       "model": "Sonata",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2018 Nissan Qashqai S",
@@ -238,7 +247,9 @@
       "year": 2018,
       "make": "Nissan",
       "model": "Qashqai",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2018 Nissan Sentra Sedan SV",
@@ -255,7 +266,9 @@
       "year": 2018,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2018 Subaru WRX Sport",
@@ -272,7 +285,9 @@
       "year": 2018,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2019 Cadillac Escalade Platinum",
@@ -289,7 +304,9 @@
       "year": 2019,
       "make": "Cadillac",
       "model": "Escalade",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2019 Cadillac XT4 AWD Sport",
@@ -306,7 +323,9 @@
       "year": 2019,
       "make": "Cadillac",
       "model": "XT4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2019 GMC Acadia SLE",
@@ -323,7 +342,9 @@
       "year": 2019,
       "make": "GMC",
       "model": "Acadia",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2019 Jeep Cherokee Trailhawk",
@@ -340,7 +361,9 @@
       "year": 2019,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2019 RAM 1500 Classic Express",
@@ -357,7 +380,9 @@
       "year": 2019,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2020 Chevrolet Equinox Premier",
@@ -374,7 +399,9 @@
       "year": 2020,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2020 Jeep Wrangler Sahara",
@@ -391,7 +418,9 @@
       "year": 2020,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2020 Nissan Pathfinder SV Tech",
@@ -408,7 +437,9 @@
       "year": 2020,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2021 Nissan Kicks SR",
@@ -425,7 +456,9 @@
       "year": 2021,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2021 Nissan Rogue SV",
@@ -442,7 +475,9 @@
       "year": 2021,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2022 Dodge Challenger Scat Pack 392 Widebody",
@@ -459,7 +494,9 @@
       "year": 2022,
       "make": "Dodge",
       "model": "Challenger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2022 Hyundai Elantra Ultimate",
@@ -476,7 +513,9 @@
       "year": 2022,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2022 Nissan Murano SL",
@@ -493,7 +532,9 @@
       "year": 2022,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2022 Nissan Rogue SV",
@@ -503,14 +544,16 @@
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/bde0861380f9.html",
       "source_url": "https://www.reddeernissan.com/vehicles/2022/nissan/rogue/red-deer/ab/69688438/?sale_class=used",
       "dealer_url": "https://www.reddeernissan.com/vehicles/2022/nissan/rogue/red-deer/ab/69688438/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T13:03:49",
+      "last_verified": "2026-10-08T00:17:03",
       "price": 26949.0,
       "price_currency": "CAD",
       "odometer_km": 90680,
       "year": 2022,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2022 Volkswagen Taos Trendline",
@@ -520,14 +563,16 @@
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/322311a9eaeb.html",
       "source_url": "https://www.reddeernissan.com/vehicles/2022/volkswagen/taos/red-deer/ab/71053029/?sale_class=used",
       "dealer_url": "https://www.reddeernissan.com/vehicles/2022/volkswagen/taos/red-deer/ab/71053029/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T13:03:58",
-      "price": 20995.0,
+      "last_verified": "2026-10-08T00:17:13",
+      "price": 18279.0,
       "price_currency": "CAD",
       "odometer_km": 149453,
       "year": 2022,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2023 Kia Sportage LX",
@@ -537,14 +582,16 @@
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/f7879b61c7be.html",
       "source_url": "https://www.reddeernissan.com/vehicles/2023/kia/sportage/red-deer/ab/69102459/?sale_class=used",
       "dealer_url": "https://www.reddeernissan.com/vehicles/2023/kia/sportage/red-deer/ab/69102459/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T13:04:18",
+      "last_verified": "2026-10-08T00:17:21",
       "price": 23889.0,
       "price_currency": "CAD",
       "odometer_km": 110467,
       "year": 2023,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2023 Mazda MX-5 Miata RF GT",
@@ -554,14 +601,16 @@
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/b85441da97b7.html",
       "source_url": "https://www.reddeernissan.com/vehicles/2023/mazda/mx-5-miata-rf/red-deer/ab/70379421/?sale_class=used",
       "dealer_url": "https://www.reddeernissan.com/vehicles/2023/mazda/mx-5-miata-rf/red-deer/ab/70379421/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T13:04:29",
+      "last_verified": "2026-10-08T00:17:30",
       "price": 32889.0,
       "price_currency": "CAD",
       "odometer_km": 13268,
       "year": 2023,
       "make": "Mazda",
       "model": "MX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2023 Nissan Kicks SR",
@@ -571,14 +620,16 @@
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/62d41d3e86af.html",
       "source_url": "https://www.reddeernissan.com/vehicles/2023/nissan/kicks/red-deer/ab/71119556/?sale_class=used",
       "dealer_url": "https://www.reddeernissan.com/vehicles/2023/nissan/kicks/red-deer/ab/71119556/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T13:04:37",
-      "price": 25995.0,
+      "last_verified": "2026-10-08T00:17:38",
+      "price": 23489.0,
       "price_currency": "CAD",
       "odometer_km": 51541,
       "year": 2023,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2023 Nissan Kicks SV",
@@ -588,14 +639,16 @@
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/f2373cf8b6bc.html",
       "source_url": "https://www.reddeernissan.com/vehicles/2023/nissan/kicks/red-deer/ab/71225662/?sale_class=used",
       "dealer_url": "https://www.reddeernissan.com/vehicles/2023/nissan/kicks/red-deer/ab/71225662/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T13:04:46",
+      "last_verified": "2026-10-08T00:17:47",
       "price": 23869.0,
       "price_currency": "CAD",
       "odometer_km": 27020,
       "year": 2023,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2023 Nissan Qashqai SV",
@@ -605,14 +658,16 @@
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/63632b2a7786.html",
       "source_url": "https://www.reddeernissan.com/vehicles/2023/nissan/qashqai/red-deer/ab/70443420/?sale_class=used",
       "dealer_url": "https://www.reddeernissan.com/vehicles/2023/nissan/qashqai/red-deer/ab/70443420/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T13:04:55",
+      "last_verified": "2026-10-08T00:17:54",
       "price": 25449.0,
       "price_currency": "CAD",
       "odometer_km": 31006,
       "year": 2023,
       "make": "Nissan",
       "model": "Qashqai",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2023 Nissan Qashqai SV",
@@ -622,14 +677,16 @@
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/93a1ae028ff6.html",
       "source_url": "https://www.reddeernissan.com/vehicles/2023/nissan/qashqai/red-deer/ab/71065449/?sale_class=used",
       "dealer_url": "https://www.reddeernissan.com/vehicles/2023/nissan/qashqai/red-deer/ab/71065449/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T13:05:03",
-      "price": 26995.0,
+      "last_verified": "2026-10-08T00:18:02",
+      "price": 24879.0,
       "price_currency": "CAD",
       "odometer_km": 50032,
       "year": 2023,
       "make": "Nissan",
       "model": "Qashqai",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2023 Nissan Rogue SL",
@@ -639,14 +696,16 @@
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/9f66282c0bab.html",
       "source_url": "https://www.reddeernissan.com/vehicles/2023/nissan/rogue/red-deer/ab/69129360/?sale_class=used",
       "dealer_url": "https://www.reddeernissan.com/vehicles/2023/nissan/rogue/red-deer/ab/69129360/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T13:05:11",
+      "last_verified": "2026-10-08T00:18:10",
       "price": 26779.0,
       "price_currency": "CAD",
       "odometer_km": 87101,
       "year": 2023,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2023 Nissan Rogue SV Moonroof",
@@ -656,14 +715,16 @@
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/8628959b1287.html",
       "source_url": "https://www.reddeernissan.com/vehicles/2023/nissan/rogue/red-deer/ab/69299576/?sale_class=used",
       "dealer_url": "https://www.reddeernissan.com/vehicles/2023/nissan/rogue/red-deer/ab/69299576/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T13:05:19",
+      "last_verified": "2026-10-08T00:18:19",
       "price": 25439.0,
       "price_currency": "CAD",
       "odometer_km": 122111,
       "year": 2023,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2023 Nissan Versa SV",
@@ -673,14 +734,16 @@
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/7c272c3ed187.html",
       "source_url": "https://www.reddeernissan.com/vehicles/2023/nissan/versa/red-deer/ab/68867810/?sale_class=used",
       "dealer_url": "https://www.reddeernissan.com/vehicles/2023/nissan/versa/red-deer/ab/68867810/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T13:05:30",
+      "last_verified": "2026-10-08T00:18:29",
       "price": 18889.0,
       "price_currency": "CAD",
       "odometer_km": 76531,
       "year": 2023,
       "make": "Nissan",
       "model": "Versa",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2023 RAM 2500 Laramie",
@@ -690,14 +753,16 @@
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/282a244b7b01.html",
       "source_url": "https://www.reddeernissan.com/vehicles/2023/ram/2500/red-deer/ab/69890701/?sale_class=used",
       "dealer_url": "https://www.reddeernissan.com/vehicles/2023/ram/2500/red-deer/ab/69890701/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T13:05:40",
+      "last_verified": "2026-10-08T00:18:38",
       "price": 70889.0,
       "price_currency": "CAD",
       "odometer_km": 93081,
       "year": 2023,
       "make": "RAM",
       "model": "2500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2024 Dodge Hornet R/T",
@@ -707,14 +772,16 @@
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/3589051ff91c.html",
       "source_url": "https://www.reddeernissan.com/vehicles/2024/dodge/hornet/red-deer/ab/68839327/?sale_class=used",
       "dealer_url": "https://www.reddeernissan.com/vehicles/2024/dodge/hornet/red-deer/ab/68839327/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T13:05:49",
+      "last_verified": "2026-10-08T00:18:48",
       "price": 32189.0,
       "price_currency": "CAD",
       "odometer_km": 47176,
       "year": 2024,
       "make": "Dodge",
       "model": "Hornet",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2024 Mitsubishi RVR SE",
@@ -724,14 +791,16 @@
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/cb3fc3bf4b49.html",
       "source_url": "https://www.reddeernissan.com/vehicles/2024/mitsubishi/rvr/red-deer/ab/69496191/?sale_class=used",
       "dealer_url": "https://www.reddeernissan.com/vehicles/2024/mitsubishi/rvr/red-deer/ab/69496191/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T13:05:59",
+      "last_verified": "2026-10-08T00:18:57",
       "price": 26399.0,
       "price_currency": "CAD",
       "odometer_km": 21904,
       "year": 2024,
       "make": "Mitsubishi",
       "model": "RVR",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2024 Nissan Kicks SR",
@@ -741,14 +810,16 @@
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/6c74e0f9a2c3.html",
       "source_url": "https://www.reddeernissan.com/vehicles/2024/nissan/kicks/red-deer/ab/69097184/?sale_class=used",
       "dealer_url": "https://www.reddeernissan.com/vehicles/2024/nissan/kicks/red-deer/ab/69097184/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T13:06:08",
+      "last_verified": "2026-10-08T00:19:07",
       "price": 23889.0,
       "price_currency": "CAD",
       "odometer_km": 50166,
       "year": 2024,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2024 Nissan Murano SL",
@@ -765,7 +836,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2024 Nissan Rogue Platinum",
@@ -782,7 +855,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2024 Nissan Sentra Sedan S",
@@ -799,7 +874,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2024 Nissan Versa SV",
@@ -816,7 +893,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Versa",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2025 Acura ADX A-Spec",
@@ -832,7 +911,9 @@
       "year": 2025,
       "make": "Acura",
       "model": "ADX A-Spec",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2025 Chevrolet Trax 2RS",
@@ -849,7 +930,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Trax",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Altima S",
@@ -866,7 +949,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Altima",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Kicks Play SV",
@@ -883,7 +968,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Kicks SV",
@@ -900,7 +987,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Kicks SV",
@@ -917,7 +1006,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Kicks SV",
@@ -934,7 +1025,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Kicks SR",
@@ -951,7 +1044,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Kicks SV",
@@ -968,7 +1063,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Kicks SV",
@@ -985,7 +1082,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Kicks SV",
@@ -1002,7 +1101,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Murano SL",
@@ -1019,7 +1120,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Rogue SV Moonroof",
@@ -1036,7 +1139,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Rogue SV Moonroof",
@@ -1054,7 +1159,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Rogue SV Moonroof",
@@ -1071,7 +1178,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Rogue SL",
@@ -1088,7 +1197,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Rogue S",
@@ -1105,7 +1216,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Rogue SV Moonroof",
@@ -1122,7 +1235,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Rogue SV Moonroof",
@@ -1139,7 +1254,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Rogue SL",
@@ -1156,7 +1273,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Rogue SV Moonroof",
@@ -1173,7 +1292,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Rogue SV Moonroof",
@@ -1190,7 +1311,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Sentra Sedan SV",
@@ -1207,7 +1330,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Sentra Sedan SV",
@@ -1225,7 +1350,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Sentra Sedan SV",
@@ -1242,7 +1369,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Versa SR",
@@ -1260,7 +1389,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Versa",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Acura MDX Platinum Elite A-Spec",
@@ -1277,7 +1408,9 @@
       "year": 2026,
       "make": "Acura",
       "model": "MDX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Kia Sorento Plug-In Hybrid LX",
@@ -1294,7 +1427,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Plug-In Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SR",
@@ -1311,7 +1446,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SV",
@@ -1328,7 +1465,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SV",
@@ -1345,7 +1484,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SR",
@@ -1362,7 +1503,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SV",
@@ -1379,7 +1522,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SV",
@@ -1394,7 +1539,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek",
@@ -1411,7 +1558,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue SV Moonroof",
@@ -1429,7 +1578,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek",
@@ -1446,7 +1597,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue SV Moonroof",
@@ -1463,7 +1616,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue SV Moonroof",
@@ -1480,7 +1635,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue S",
@@ -1497,7 +1654,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue S",
@@ -1512,7 +1671,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue S",
@@ -1527,7 +1688,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Armada Platinum Reserve",
@@ -1545,7 +1708,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Armada",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks S",
@@ -1563,7 +1728,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks S",
@@ -1581,7 +1748,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SR",
@@ -1598,7 +1767,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks S",
@@ -1616,7 +1787,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks S",
@@ -1634,7 +1807,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SR",
@@ -1652,7 +1827,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SR",
@@ -1670,7 +1847,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks S",
@@ -1688,7 +1867,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SV",
@@ -1706,7 +1887,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks S",
@@ -1724,7 +1907,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SR",
@@ -1741,7 +1926,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks S",
@@ -1759,7 +1946,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SR",
@@ -1776,7 +1965,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks S",
@@ -1794,7 +1985,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SV",
@@ -1812,7 +2005,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SV",
@@ -1829,7 +2024,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SR",
@@ -1846,7 +2043,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks S",
@@ -1864,7 +2063,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SV",
@@ -1881,7 +2082,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks S",
@@ -1899,7 +2102,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks S",
@@ -1917,7 +2122,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks S",
@@ -1935,7 +2142,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks S",
@@ -1953,7 +2162,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks S",
@@ -1971,7 +2182,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks S",
@@ -1988,7 +2201,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SV",
@@ -2005,7 +2220,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SV",
@@ -2022,7 +2239,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks S",
@@ -2040,7 +2259,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SV",
@@ -2057,7 +2278,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SV",
@@ -2074,7 +2297,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SV",
@@ -2092,7 +2317,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SV",
@@ -2110,7 +2337,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SR",
@@ -2127,7 +2356,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SV",
@@ -2144,7 +2375,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks S",
@@ -2162,7 +2395,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SV",
@@ -2179,7 +2414,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SV",
@@ -2196,7 +2433,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SV",
@@ -2213,7 +2452,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SV",
@@ -2230,7 +2471,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks S",
@@ -2248,7 +2491,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks S",
@@ -2266,7 +2511,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks S",
@@ -2284,7 +2531,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks S",
@@ -2302,7 +2551,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks S",
@@ -2320,7 +2571,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SV",
@@ -2337,7 +2590,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SV",
@@ -2354,7 +2609,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SV",
@@ -2371,7 +2628,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SV",
@@ -2388,7 +2647,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks S",
@@ -2406,7 +2667,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SR",
@@ -2423,7 +2686,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks S",
@@ -2441,7 +2706,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SR",
@@ -2458,7 +2725,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks S",
@@ -2475,7 +2744,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks S",
@@ -2493,7 +2764,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SR",
@@ -2511,7 +2784,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SV",
@@ -2528,7 +2803,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SV",
@@ -2546,7 +2823,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Pathfinder Platinum",
@@ -2563,7 +2842,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Pathfinder Platinum",
@@ -2581,7 +2862,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Pathfinder Platinum",
@@ -2599,7 +2882,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Pathfinder Platinum",
@@ -2613,7 +2898,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Pathfinder Rock Creek",
@@ -2627,7 +2914,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Pathfinder Rock Creek",
@@ -2641,7 +2930,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Pathfinder Platinum",
@@ -2656,7 +2947,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Pathfinder Platinum",
@@ -2671,7 +2964,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Plug-In Hybrid Platinum",
@@ -2689,7 +2984,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue Plug-In Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek",
@@ -2706,7 +3003,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Platinum",
@@ -2724,7 +3023,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue SV Moonroof",
@@ -2742,7 +3043,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue SV Moonroof",
@@ -2759,7 +3062,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue SV Moonroof",
@@ -2777,7 +3082,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue SV Moonroof",
@@ -2794,7 +3101,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue SV Dark Armor",
@@ -2812,7 +3121,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue SV Moonroof",
@@ -2829,7 +3140,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Platinum",
@@ -2847,7 +3160,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue SV Moonroof",
@@ -2865,7 +3180,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue SV Moonroof",
@@ -2883,7 +3200,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue SV Moonroof",
@@ -2900,7 +3219,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue SV Moonroof",
@@ -2917,7 +3238,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue SV Moonroof",
@@ -2934,7 +3257,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue SV Moonroof",
@@ -2951,7 +3276,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue SV Moonroof",
@@ -2968,7 +3295,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Platinum",
@@ -2986,7 +3315,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Platinum",
@@ -3003,7 +3334,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Platinum",
@@ -3020,7 +3353,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek",
@@ -3038,7 +3373,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Platinum",
@@ -3055,7 +3392,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Platinum",
@@ -3072,7 +3411,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Platinum",
@@ -3089,7 +3430,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Platinum",
@@ -3106,7 +3449,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Platinum",
@@ -3123,7 +3468,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Platinum",
@@ -3140,7 +3487,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Platinum",
@@ -3157,7 +3506,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Platinum",
@@ -3175,7 +3526,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Platinum",
@@ -3192,7 +3545,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Platinum",
@@ -3210,7 +3565,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue SV Moonroof",
@@ -3228,7 +3585,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Platinum",
@@ -3245,7 +3604,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek",
@@ -3262,7 +3623,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek",
@@ -3279,7 +3642,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek",
@@ -3296,7 +3661,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek",
@@ -3313,7 +3680,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue S",
@@ -3331,7 +3700,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Platinum",
@@ -3348,7 +3719,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Platinum",
@@ -3365,7 +3738,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Platinum",
@@ -3382,7 +3757,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Platinum",
@@ -3399,7 +3776,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Platinum",
@@ -3417,7 +3796,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Platinum",
@@ -3434,7 +3815,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue S",
@@ -3452,7 +3835,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue SV Moonroof",
@@ -3469,7 +3854,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue S",
@@ -3487,7 +3874,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Platinum",
@@ -3504,7 +3893,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek",
@@ -3522,7 +3913,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Platinum",
@@ -3539,7 +3932,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Platinum",
@@ -3556,7 +3951,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Platinum",
@@ -3574,7 +3971,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Platinum",
@@ -3592,7 +3991,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Platinum",
@@ -3610,7 +4011,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek",
@@ -3627,7 +4030,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek",
@@ -3645,7 +4050,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Platinum",
@@ -3663,7 +4070,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek",
@@ -3681,7 +4090,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue SV Moonroof",
@@ -3699,7 +4110,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek",
@@ -3716,7 +4129,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek",
@@ -3733,7 +4148,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek",
@@ -3751,7 +4168,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek",
@@ -3768,7 +4187,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek",
@@ -3785,7 +4206,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek",
@@ -3802,7 +4225,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek",
@@ -3819,7 +4244,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek",
@@ -3837,7 +4264,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek",
@@ -3854,7 +4283,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek",
@@ -3871,7 +4302,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek",
@@ -3888,7 +4321,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek",
@@ -3905,7 +4340,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek",
@@ -3922,7 +4359,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek",
@@ -3939,7 +4378,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek",
@@ -3956,7 +4397,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek",
@@ -3973,7 +4416,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek",
@@ -3991,7 +4436,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek",
@@ -4009,7 +4456,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek",
@@ -4026,7 +4475,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue SV Moonroof",
@@ -4044,7 +4495,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek",
@@ -4061,7 +4514,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek",
@@ -4078,7 +4533,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue SV Dark Armor",
@@ -4096,7 +4553,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek",
@@ -4110,7 +4569,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue SV Dark Armor",
@@ -4124,7 +4585,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue SV Dark Armor",
@@ -4138,7 +4601,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue SV Dark Armor",
@@ -4152,7 +4617,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue SV Moonroof",
@@ -4166,7 +4633,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Platinum",
@@ -4180,7 +4649,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Platinum",
@@ -4194,7 +4665,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue SV Moonroof",
@@ -4209,7 +4682,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Platinum",
@@ -4224,7 +4699,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Sentra Sedan S",
@@ -4242,7 +4719,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Sentra Sedan S",
@@ -4260,7 +4739,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Sentra Sedan SV",
@@ -4277,7 +4758,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Sentra Sedan SR",
@@ -4294,7 +4777,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Sentra Sedan SV",
@@ -4312,7 +4797,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Sentra Sedan SR",
@@ -4330,7 +4817,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Sentra Sedan SV",
@@ -4345,7 +4834,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Z NISMO NISMO",
@@ -4362,7 +4853,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Z NISMO NISMO",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Z NISMO NISMO",
@@ -4379,7 +4872,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Z NISMO NISMO",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Z NISMO NISMO",
@@ -4396,7 +4891,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Z NISMO NISMO",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 RAM 1500 Express",
@@ -4413,7 +4910,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 RAM 3500 Big Horn",
@@ -4430,7 +4929,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Edition",
@@ -4445,7 +4946,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2027 Nissan Armada Platinum Reserve",
@@ -4460,7 +4963,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Armada",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2027 Nissan Armada Platinum Reserve",
@@ -4475,7 +4980,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Armada",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2027 Nissan Armada Platinum Reserve",
@@ -4489,7 +4996,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Armada",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2027 Nissan Frontier Crew Cab PRO-4X",
@@ -4507,7 +5016,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Frontier",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2027 Nissan Kicks SV",
@@ -4521,7 +5032,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2027 Nissan Kicks SR",
@@ -4535,7 +5048,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2027 Nissan Kicks SV",
@@ -4549,7 +5064,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2027 Nissan Kicks SV",
@@ -4564,7 +5081,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2027 Nissan Kicks SV",
@@ -4579,7 +5098,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2027 Nissan Kicks SV",
@@ -4594,7 +5115,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2027 Nissan Murano Platinum",
@@ -4611,7 +5134,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2027 Nissan Murano Platinum",
@@ -4625,7 +5150,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2027 Nissan Murano Dark Armor",
@@ -4640,7 +5167,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2027 Nissan Murano Dark Armor",
@@ -4655,7 +5184,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     },
     {
       "name": "2027 Nissan Murano Platinum",
@@ -4669,7 +5200,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "new"
+      "condition": "new",
+      "city": "Red Deer",
+      "province": "AB"
     }
   ]
 }
