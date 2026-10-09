@@ -3,7 +3,7 @@
 > Red Deer Nissan is a Nissan dealership in AB. This mirror provides AI-readable access to current inventory and dealership information, kept in sync with the dealership's own website.
 
 ## Inventory
-- [Used vehicles](https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/): 274 vehicles, updated regularly
+- [Used vehicles](https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/): 276 vehicles, updated regularly
 - [Inventory feed](https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/inventory.json): structured JSON, all vehicles with VIN, price, mileage and availability
 
 ## Resources
