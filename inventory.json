@@ -1,6 +1,6 @@
 {
   "dealership": "Red Deer Nissan",
-  "generated_at": "2026-10-25T21:14:09",
+  "generated_at": "2026-10-26T05:34:48",
   "vehicle_count": 259,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -206,9 +206,7 @@
       "year": 2020,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "used",
-      "price": 22997.0,
-      "price_currency": "CAD"
+      "condition": "used"
     },
     {
       "name": "2020 Jeep Wrangler Sahara",
