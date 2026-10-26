@@ -1,6 +1,6 @@
 {
   "dealership": "Red Deer Nissan",
-  "generated_at": "2026-10-25T20:36:12",
+  "generated_at": "2026-10-25T21:14:09",
   "vehicle_count": 259,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -2433,7 +2433,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "price": 37997.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026 Nissan Rogue SV Moonroof",
@@ -2442,7 +2444,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "price": 37997.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026 Nissan Rogue SV Moonroof",
@@ -2451,7 +2455,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "price": 37997.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026 Nissan Rogue SV Moonroof",
@@ -2740,16 +2746,20 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "price": 35997.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2027 Nissan Kicks SV",
+      "name": "2027 Nissan Kicks AWD Rock Creek",
       "vin": "3N8AP6CB0VL323222",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/new/5ec02829a228.html",
       "year": 2027,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "price": 35997.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Nissan Kicks SV",
@@ -2758,7 +2768,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "price": 35997.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Nissan Kicks SV",
@@ -2767,7 +2779,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "price": 35997.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Nissan Murano Dark Armor",
@@ -2809,7 +2823,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "new"
+      "condition": "new",
+      "price": 61997.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Nissan Murano Platinum",
