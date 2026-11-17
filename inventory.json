@@ -1,14 +1,25 @@
 {
   "dealership": "Red Deer Nissan",
-  "generated_at": "2026-10-26T06:06:45",
-  "vehicle_count": 259,
+  "generated_at": "2026-11-17T01:42:48",
+  "vehicle_count": 275,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "2009 Toyota Tacoma BASE",
+      "name": "2006 Nissan X-Trail AWD LE",
+      "vin": "JN8BT08V46W205699",
+      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/a955727347b2.html",
+      "year": 2006,
+      "make": "Nissan",
+      "model": "X-Trail AWD LE",
+      "condition": "used",
+      "price": 11897.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2009 Toyota Tacoma Double Cab 4x4 Crew Cab TRD Sport BCam",
       "vin": "5TEMU52N89Z601942",
-      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/1d1995a0169d.html",
+      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/872481fdc352.html",
       "year": 2009,
       "make": "Toyota",
       "model": "Tacoma",
@@ -17,14 +28,80 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2013 Chevrolet Malibu Sedan LS",
-      "vin": "1G11B5SAXDF142157",
-      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/ac266cca7cc9.html",
-      "year": 2013,
-      "make": "Chevrolet",
-      "model": "Malibu",
+      "name": "2010 Ford Edge AWD Limited Leather Roof Nav",
+      "vin": "2FMDK4KCXABA51513",
+      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/3efcd3bc7d1b.html",
+      "year": 2010,
+      "make": "Ford",
+      "model": "Edge",
       "condition": "used",
-      "price": 4995.0,
+      "price": 10943.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2010 Nissan Murano AWD LE",
+      "vin": "JN8AZ1MW5AW119843",
+      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/37b084a91634.html",
+      "year": 2010,
+      "make": "Nissan",
+      "model": "Murano",
+      "condition": "used",
+      "price": 4988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2012 GMC Acadia AWD SLT1",
+      "vin": "1GKKVRED1CJ356308",
+      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/d9552c5e117e.html",
+      "year": 2012,
+      "make": "GMC",
+      "model": "Acadia",
+      "condition": "used",
+      "price": 8997.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2013 Dodge Dart SE Manual",
+      "vin": "1C3CDFAA2DD286707",
+      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/0ac63d731a08.html",
+      "year": 2013,
+      "make": "Dodge",
+      "model": "Dart",
+      "condition": "used",
+      "price": 6987.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2013 Nissan Altima 2.5 SV",
+      "vin": "1N4AL3AP6DN403584",
+      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/2b6f63bb5af0.html",
+      "year": 2013,
+      "make": "Nissan",
+      "model": "Altima",
+      "condition": "used",
+      "price": 5990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2014 Maserati Ghibli S Q4 Leather Roof Nav BCam",
+      "vin": "ZAM57RTAXE1085842",
+      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/d7f8de1c6f28.html",
+      "year": 2014,
+      "make": "Maserati",
+      "model": "Ghibli S Q4 Leather Roof Nav BCam",
+      "condition": "used",
+      "price": 21876.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2015 Dodge Durango AWD Limited",
+      "vin": "1C4RDJDGXFC239815",
+      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/ac407d862bf8.html",
+      "year": 2015,
+      "make": "Dodge",
+      "model": "Durango",
+      "condition": "used",
+      "price": 20993.0,
       "price_currency": "CAD"
     },
     {
@@ -36,6 +113,28 @@
       "model": "QX60",
       "condition": "used",
       "price": 19989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2016 Cadillac CTS Sedan AWD Luxury Collection Leather Sunroof Navigation",
+      "vin": "1G6AX5SS0G0134645",
+      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/24e295d0f876.html",
+      "year": 2016,
+      "make": "Cadillac",
+      "model": "CTS Sedan AWD Luxury Collection Leather Sunroof Navigation",
+      "condition": "used",
+      "price": 15789.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2016 Chrysler 200 C",
+      "vin": "1C3CCCCG4GN185217",
+      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/62ed71e3172c.html",
+      "year": 2016,
+      "make": "Chrysler",
+      "model": "200 C",
+      "condition": "used",
+      "price": 13494.0,
       "price_currency": "CAD"
     },
     {
@@ -59,6 +158,17 @@
       "condition": "used"
     },
     {
+      "name": "2017 Dodge Durango AWD R/T",
+      "vin": "1C4SDJCT8HC945068",
+      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/70005249d361.html",
+      "year": 2017,
+      "make": "Dodge",
+      "model": "Durango",
+      "condition": "used",
+      "price": 23890.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2017 Ford Fusion SE",
       "vin": "3FA6P0T99HR152473",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/98d7b47d5e46.html",
@@ -70,6 +180,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2017 Hyundai Tucson AWD Premium",
+      "vin": "KM8J3CA47HU447410",
+      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/deb0e3ec6ebf.html",
+      "year": 2017,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "used",
+      "price": 17994.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2017 Infiniti QX60 AWD Leather Roof Nav BCam",
+      "vin": "5N1DL0MM8HC509250",
+      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/39bfc7eb2b72.html",
+      "year": 2017,
+      "make": "Infiniti",
+      "model": "QX60",
+      "condition": "used",
+      "price": 19439.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2017 Mitsubishi Lancer Sedan ES",
       "vin": "JA32U2FU1HU600466",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/b6a3203e41a7.html",
@@ -78,17 +210,6 @@
       "model": "Lancer",
       "condition": "used",
       "price": 13489.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Nissan Rogue SV AWD CVT MOONROOF/TECH PKG",
-      "vin": "5N1AT2MV9HC802940",
-      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/abf2a2305ef3.html",
-      "year": 2017,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 17489.0,
       "price_currency": "CAD"
     },
     {
@@ -147,35 +268,26 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Cadillac XT4 AWD Sport",
-      "vin": "1GYFZFR40KF105933",
-      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/1e6bfb984f50.html",
-      "year": 2019,
-      "make": "Cadillac",
-      "model": "XT4",
-      "condition": "used",
-      "price": 23889.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Jeep Cherokee Trailhawk",
-      "vin": "1C4PJMBX8KD279030",
-      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/d7cb38e6935a.html",
-      "year": 2019,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "used",
-      "price": 17959.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Jeep Wrangler Sahara",
+      "name": "2019 Jeep Wrangler 4x4 Sahara",
       "vin": "1C4HJXEG5KW580120",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/81a819323b30.html",
       "year": 2019,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "price": 29877.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Nissan Pathfinder AWD Platinum",
+      "vin": "5N1DR2MM1KC604296",
+      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/8e2a0d061fc8.html",
+      "year": 2019,
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "condition": "used",
+      "price": 27491.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2019 RAM 1500 Classic Crew Cab Express",
@@ -200,26 +312,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Jeep Gladiator Sport S",
-      "vin": "1C6HJTAGXLL104793",
-      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/2c83a2a7871a.html",
-      "year": 2020,
-      "make": "Jeep",
-      "model": "Gladiator",
-      "condition": "used"
-    },
-    {
-      "name": "2020 Jeep Wrangler Sahara",
-      "vin": "1C4HJXEN5LW293926",
-      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/96ff740dacd1.html",
-      "year": 2020,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 31889.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Nissan Pathfinder SV Tech",
       "vin": "5N1DR2BM5LC601552",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/15042cc8a149.html",
@@ -228,6 +320,17 @@
       "model": "Pathfinder",
       "condition": "used",
       "price": 23489.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Nissan Sentra SV",
+      "vin": "3N1AB8CV8LY298170",
+      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/f8b430942026.html",
+      "year": 2020,
+      "make": "Nissan",
+      "model": "Sentra",
+      "condition": "used",
+      "price": 20998.0,
       "price_currency": "CAD"
     },
     {
@@ -242,7 +345,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Nissan Rogue SV",
+      "name": "2021 Nissan Rogue AWD SV",
       "vin": "5N1AT3BB4MC677113",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/0904e4f9422f.html",
       "year": 2021,
@@ -275,7 +378,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Nissan Murano SL",
+      "name": "2022 Nissan Murano AWD SL Leather Panoramic Sunroof Navigation",
       "vin": "5N1AZ2CS7NC123556",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/6f1653d3ddf4.html",
       "year": 2022,
@@ -297,7 +400,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Volkswagen Taos Trendline",
+      "name": "2022 Volkswagen Taos 4Motion Trendline",
       "vin": "3VVAX7B2XNM045377",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/322311a9eaeb.html",
       "year": 2022,
@@ -352,18 +455,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Nissan Qashqai SV",
-      "vin": "JN1BJ1BWXPW110951",
-      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/93a1ae028ff6.html",
-      "year": 2023,
-      "make": "Nissan",
-      "model": "Qashqai",
-      "condition": "used",
-      "price": 24879.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Nissan Rogue SV Moonroof",
+      "name": "2023 Nissan Rogue AWD SV Moonroof",
       "vin": "JN8BT3BB5PW180605",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/8628959b1287.html",
       "year": 2023,
@@ -374,7 +466,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 RAM 2500 Laramie",
+      "name": "2023 RAM 2500 4x4 Crew Cab Laramie Diesel",
       "vin": "3C6UR5FL3PG598460",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/282a244b7b01.html",
       "year": 2023,
@@ -415,6 +507,17 @@
       "model": "Murano",
       "condition": "used",
       "price": 36939.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Nissan Murano AWD SL Midnight Edition",
+      "vin": "5N1AZ2CS5RC127398",
+      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/9600b5a7b791.html",
+      "year": 2024,
+      "make": "Nissan",
+      "model": "Murano",
+      "condition": "used",
+      "price": 38949.0,
       "price_currency": "CAD"
     },
     {
@@ -460,13 +563,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Hyundai Elantra Preferred",
-      "vin": "KMHLM4DG8SU062284",
-      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/e061add7cb52.html",
+      "name": "2025 Hyundai Sonata AWD Preferred-Trend Leather Panoramic Sunroof",
+      "vin": "KMHL44JA0SA440180",
+      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/0d645d11c8e8.html",
       "year": 2025,
       "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used"
+      "model": "Sonata",
+      "condition": "used",
+      "price": 42995.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2025 Nissan Altima S",
@@ -532,17 +637,6 @@
       "model": "Kicks",
       "condition": "used",
       "price": 29849.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Nissan Kicks SV",
-      "vin": "3N8AP6CB9SL424738",
-      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/e58a141caff7.html",
-      "year": 2025,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "used",
-      "price": 25979.0,
       "price_currency": "CAD"
     },
     {
@@ -656,6 +750,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025 Nissan Rogue AWD Platinum",
+      "vin": "JN8BT3DDXSW301586",
+      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/b6a74ebbc59b.html",
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "used",
+      "price": 36889.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025 Nissan Sentra SV",
       "vin": "3N1AB8CV8SY339606",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/8a7bb2bdb734.html",
@@ -678,6 +783,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025 Nissan Sentra S Manual",
+      "vin": "3N1AB8BV7SY354339",
+      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/b5a383619c51.html",
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Sentra",
+      "condition": "used",
+      "price": 23649.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Nissan Sentra SV",
+      "vin": "3N1AB8CV2SY354294",
+      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/de94e3ab8b01.html",
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Sentra",
+      "condition": "used",
+      "price": 25669.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025 Nissan Sentra SV",
       "vin": "3N1AB8CV7SY210546",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/new/fecc161b3c2e.html",
@@ -697,17 +824,6 @@
       "model": "Versa",
       "condition": "new",
       "price": 24997.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen Tiguan Comfortline",
-      "vin": "3VVMR7RM2SM051880",
-      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/86484d3abf8b.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 36979.0,
       "price_currency": "CAD"
     },
     {
@@ -810,6 +926,39 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Nissan Kicks S",
+      "vin": "3N8AP6BE7TL348806",
+      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/d5861f1a518e.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "used",
+      "price": 27698.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Nissan Kicks SV",
+      "vin": "3N8AP6CE8TL378993",
+      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/50bee94983f2.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "used",
+      "price": 29559.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Nissan Kicks S",
+      "vin": "3N8AP6BE0TL405587",
+      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/f1240a8a6e15.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "used",
+      "price": 31993.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Nissan Rogue AWD Rock Creek Roof BCam",
       "vin": "JN8BT3BB4TW374732",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/9b5a18fdfc58.html",
@@ -818,17 +967,6 @@
       "model": "Rogue",
       "condition": "used",
       "price": 41299.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Nissan Rogue SV Moonroof",
-      "vin": "JN8BT3BB3TW381090",
-      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/4c6bcc5cfb0d.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 34989.0,
       "price_currency": "CAD"
     },
     {
@@ -895,6 +1033,50 @@
       "model": "Rogue",
       "condition": "used",
       "price": 32497.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Nissan Rogue AWD SV Moonroof",
+      "vin": "JN8BT3BB9TW095549",
+      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/b7fcc3e581dd.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "used",
+      "price": 36391.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Nissan Rogue AWD S",
+      "vin": "JN8BT3AB3TW094561",
+      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/8ce2e00c8144.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "used",
+      "price": 32498.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Nissan Rogue SV Dark Armor",
+      "vin": "JN8BT3BB7TW380685",
+      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/7fa15807e874.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "used",
+      "price": 39114.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Nissan Sentra SV",
+      "vin": "3N1AB9CVXTY261885",
+      "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/35c71ad79b31.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Sentra",
+      "condition": "used",
+      "price": 26193.0,
       "price_currency": "CAD"
     },
     {
