@@ -1,6 +1,6 @@
 # Red Deer Nissan
 
-Nissan dealership in AB. AI-readable inventory mirror, about 275 vehicles.
+Nissan dealership in AB. AI-readable inventory mirror, about 271 vehicles.
 
 - Official website: https://www.reddeernissan.com
 - Used vehicles: https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/
