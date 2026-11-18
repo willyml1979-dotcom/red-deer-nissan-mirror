@@ -1,6 +1,6 @@
 {
   "dealership": "Red Deer Nissan",
-  "generated_at": "2026-11-18T15:42:22",
+  "generated_at": "2026-11-18T16:27:16",
   "vehicle_count": 276,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -2378,69 +2378,69 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Rogue SV Dark Armor",
+      "name": "2026 Nissan Rogue AWD SV Dark Armor",
       "vin": "JN8BT3BBXTW390224",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/new/ec32b3aa9b25.html",
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
       "condition": "new",
-      "price": 39997.0,
+      "price": 41497.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Rogue SV Dark Armor",
+      "name": "2026 Nissan Rogue AWD SV Dark Armor",
       "vin": "JN8BT3BB5TW390342",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/new/3fce12b99c84.html",
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
       "condition": "new",
-      "price": 39997.0,
+      "price": 41497.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Rogue SV Moonroof",
+      "name": "2026 Nissan Rogue AWD SV Moonroof",
       "vin": "JN8BT3BB5TW102657",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/new/21899596e31b.html",
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
       "condition": "new",
-      "price": 37997.0,
+      "price": 39997.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Rogue Platinum",
+      "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DD2TW017242",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/new/adf0476ed1fe.html",
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
       "condition": "new",
-      "price": 42797.0,
+      "price": 46997.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Rogue Platinum",
+      "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DD2TW016267",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/new/6a707a711da7.html",
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
       "condition": "new",
-      "price": 42797.0,
+      "price": 46997.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Rogue Platinum",
+      "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DD9TW016346",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/new/95c9061b67eb.html",
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
       "condition": "new",
-      "price": 42797.0,
+      "price": 46997.0,
       "price_currency": "CAD"
     },
     {
@@ -2665,7 +2665,7 @@
       "make": "Nissan",
       "model": "Z NISMO NISMO",
       "condition": "new",
-      "price": 72987.0,
+      "price": 69998.0,
       "price_currency": "CAD"
     },
     {
@@ -2676,7 +2676,7 @@
       "make": "Nissan",
       "model": "Z NISMO NISMO",
       "condition": "new",
-      "price": 72987.0,
+      "price": 69998.0,
       "price_currency": "CAD"
     },
     {
@@ -2687,7 +2687,7 @@
       "make": "Nissan",
       "model": "Z NISMO NISMO",
       "condition": "new",
-      "price": 74837.0,
+      "price": 69998.0,
       "price_currency": "CAD"
     },
     {
@@ -2724,7 +2724,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Nissan Armada Platinum Reserve",
+      "name": "2027 Nissan Armada 4x4 Platinum Reserve",
       "vin": "JN8AY3CC3V9240266",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/new/61eab8345ade.html",
       "year": 2027,
@@ -2746,7 +2746,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Nissan Armada Platinum Reserve",
+      "name": "2027 Nissan Armada 4x4 Platinum Reserve",
       "vin": "JN8AY3CH5V9740442",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/new/4621820eef0f.html",
       "year": 2027,
@@ -2799,36 +2799,36 @@
       "condition": "new"
     },
     {
-      "name": "2027 Nissan Kicks SV",
+      "name": "2027 Nissan Kicks AWD SV",
       "vin": "3N8AP6CB3VL311243",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/new/2d5be9d74323.html",
       "year": 2027,
       "make": "Nissan",
       "model": "Kicks",
       "condition": "new",
-      "price": 33797.0,
+      "price": 37997.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Nissan Kicks SR",
+      "name": "2027 Nissan Kicks AWD SR",
       "vin": "3N8AP6DD9VL311375",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/new/f88bb9e947eb.html",
       "year": 2027,
       "make": "Nissan",
       "model": "Kicks",
       "condition": "new",
-      "price": 37397.0,
+      "price": 40997.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Nissan Kicks SV",
+      "name": "2027 Nissan Kicks AWD SV",
       "vin": "3N8AP6CB0VL300684",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/new/b656575bcc5f.html",
       "year": 2027,
       "make": "Nissan",
       "model": "Kicks",
       "condition": "new",
-      "price": 33797.0,
+      "price": 37997.0,
       "price_currency": "CAD"
     },
     {
