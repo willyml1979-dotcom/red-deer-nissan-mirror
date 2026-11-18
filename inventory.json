@@ -1,6 +1,6 @@
 {
   "dealership": "Red Deer Nissan",
-  "generated_at": "2026-11-17T22:23:14",
+  "generated_at": "2026-11-18T07:18:20",
   "vehicle_count": 276,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -582,7 +582,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "used"
+      "condition": "used",
+      "price": 33891.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2025 Chevrolet Trax 2RS",
@@ -695,7 +697,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Nissan Rogue SV Moonroof",
+      "name": "2025 Nissan Rogue AWD SV Moonroof",
       "vin": "JN8BT3BB4SW146924",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/1a18730ef443.html",
       "year": 2025,
@@ -706,7 +708,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Nissan Rogue SL",
+      "name": "2025 Nissan Rogue AWD SL",
       "vin": "JN8BT3CB1SW160469",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/71402922e3cb.html",
       "year": 2025,
@@ -717,7 +719,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Nissan Rogue S",
+      "name": "2025 Nissan Rogue AWD S",
       "vin": "JN8BT3AB7SW433949",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/2bde1c351aa3.html",
       "year": 2025,
@@ -750,7 +752,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Nissan Rogue SL",
+      "name": "2025 Nissan Rogue AWD SL",
       "vin": "JN8BT3CB1SW163792",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/7ef79cf948b9.html",
       "year": 2025,
@@ -772,7 +774,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Nissan Rogue SV Moonroof",
+      "name": "2025 Nissan Rogue AWD SV Moonroof",
       "vin": "JN8BT3BB1SW433685",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/00324af105e9.html",
       "year": 2025,
@@ -838,7 +840,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Acura MDX Platinum Elite A-Spec",
+      "name": "2026 Acura MDX SH-AWD Platinum Elite A-Spec",
       "vin": "5J8YE1H94TL801239",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/6dc8d2ac6f4e.html",
       "year": 2026,
@@ -849,7 +851,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Kia Sorento Plug-In Hybrid LX",
+      "name": "2026 Kia Sorento Plug-In Hybrid AWD LX Plug In Hybrid",
       "vin": "KNDRKDJH5T5448965",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/52d49e000e86.html",
       "year": 2026,
