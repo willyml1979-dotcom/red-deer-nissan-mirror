@@ -1,6 +1,6 @@
 {
   "dealership": "Red Deer Nissan",
-  "generated_at": "2026-11-18T07:50:08",
+  "generated_at": "2026-11-18T15:42:22",
   "vehicle_count": 276,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -149,7 +149,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 BMW X5 xDrive40e",
+      "name": "2017 BMW X5 xDrive40e Leather Panoramic Sunroof Navigation",
       "vin": "5UXKT0C50H0S79970",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/af14a073de67.html",
       "year": 2017,
@@ -182,14 +182,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Ford Fusion SE",
+      "name": "2017 Ford Fusion AWD SE Nav Roof BCam",
       "vin": "3FA6P0T99HR152473",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/98d7b47d5e46.html",
       "year": 2017,
       "make": "Ford",
       "model": "Fusion",
       "condition": "used",
-      "price": 8869.0,
+      "price": 9969.0,
       "price_currency": "CAD"
     },
     {
@@ -303,7 +303,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 RAM 1500 Classic Crew Cab Express",
+      "name": "2019 RAM 1500 Classic Crew Cab 4x4 Crew Cab Express",
       "vin": "3C6RR7KT0KG731370",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/a23c4ddc319d.html",
       "year": 2019,
@@ -314,7 +314,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Ford Edge SEL",
+      "name": "2020 Ford Edge AWD SEL Leather Roof Nav BCam",
       "vin": "2FMPK4J97LBB17988",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/7c8ba28da770.html",
       "year": 2020,
@@ -814,7 +814,7 @@
       "make": "Nissan",
       "model": "Sentra",
       "condition": "used",
-      "price": 25299.0,
+      "price": 24987.0,
       "price_currency": "CAD"
     },
     {
@@ -979,7 +979,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 41299.0,
+      "price": 38449.0,
       "price_currency": "CAD"
     },
     {
@@ -990,11 +990,11 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 37449.0,
+      "price": 38894.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Rogue SV Moonroof",
+      "name": "2026 Nissan Rogue AWD SV Moonroof",
       "vin": "JN8BT3BB0TW096637",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/2befc25ca3b8.html",
       "year": 2026,
@@ -1005,7 +1005,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Rogue SV Moonroof",
+      "name": "2026 Nissan Rogue AWD SV Moonroof",
       "vin": "JN8BT3BB4TW381745",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/747e391ddd6f.html",
       "year": 2026,
@@ -1016,14 +1016,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Rogue S",
+      "name": "2026 Nissan Rogue AWD S",
       "vin": "JN8BT3AB2TW090937",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/8b72aa13fb25.html",
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 31969.0,
+      "price": 32697.0,
       "price_currency": "CAD"
     },
     {
@@ -2691,7 +2691,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 1500 Express",
+      "name": "2026 RAM 1500 4x4 Crew Cab Express",
       "vin": "1C6RRFGG5TN247757",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/86f8ecdefa94.html",
       "year": 2026,
@@ -2702,7 +2702,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 3500 Big Horn",
+      "name": "2026 RAM 3500 4x4 Crew Cab Big Horn Night Edition Diesel",
       "vin": "3C63R3DLXTG251351",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/3f23a62b443f.html",
       "year": 2026,
@@ -2713,14 +2713,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volkswagen Tiguan Comfortline R-Line Black Edition",
+      "name": "2026 Volkswagen Tiguan 4Motion Comfortline R-Line Black Edition",
       "vin": "3VVGR7RM7TM114552",
       "url": "https://willyml1979-dotcom.github.io/red-deer-nissan-mirror/used/73065f951ac0.html",
       "year": 2026,
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 47889.0,
+      "price": 46459.0,
       "price_currency": "CAD"
     },
     {
